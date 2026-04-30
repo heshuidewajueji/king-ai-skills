@@ -1,3 +1,11 @@
+---
+name: tbox-prd-skill
+description: >
+  辅助生成汽车电子 TBOX（Telematics BOX）全生命周期需求文档。
+  适用客户：整车厂 OEM、Tier1 供应商（特汽/华菱/瑞驰/斯堪尼亚等）。
+  当 King 说「生成 PRD」「写需求规范」「TBOX 需求」时使用。
+---
+
 # TBOX PRD Skill — 车载TBOX产品需求文档生成器
 
 > 本 Skill 辅助生成汽车电子 TBOX（Telematics BOX）全生命周期需求文档。

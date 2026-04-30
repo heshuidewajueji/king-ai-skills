@@ -1,3 +1,10 @@
+---
+name: skill-manage
+description: >
+  Skills 自动分类与同步管理。当 King 说「整理 Skills」或「同步 Skills」时使用。
+  功能：扫描新增 Skills、自动分类、GitHub 同步、NAS 备份。
+---
+
 # Skill-Manage
 
 > Skills 自动分类与同步管理
